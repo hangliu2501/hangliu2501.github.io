@@ -2,13 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hangliu2501.github.io</id>
     <title>CDU</title>
-    <updated>2021-03-11T08:45:23.563Z</updated>
+    <updated>2021-03-11T08:54:23.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hangliu2501.github.io"/>
     <link rel="self" href="https://hangliu2501.github.io/atom.xml"/>
     <logo>https://hangliu2501.github.io/images/avatar.png</logo>
     <icon>https://hangliu2501.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, CDU</rights>
+    <entry>
+        <title type="html"><![CDATA[Grade]]></title>
+        <id>https://hangliu2501.github.io/post/grade/</id>
+        <link href="https://hangliu2501.github.io/post/grade/">
+        </link>
+        <updated>2021-03-11T08:50:16.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>PSY141 INTRODUCTION TO PSYCHOLOGY B                                65.3%</p>
+<!-- more -->
+<p>PSY143 TRAUMATOLOGY - ASSESSMENT                                     60.7%</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hangliu2501.github.io/post/hello-gridea/</id>
