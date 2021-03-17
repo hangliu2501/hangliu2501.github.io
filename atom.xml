@@ -2,13 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hangliu2501.github.io</id>
     <title>CDU</title>
-    <updated>2021-03-17T08:01:27.125Z</updated>
+    <updated>2021-03-17T08:02:51.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hangliu2501.github.io"/>
     <link rel="self" href="https://hangliu2501.github.io/atom.xml"/>
     <logo>https://hangliu2501.github.io/images/avatar.png</logo>
     <icon>https://hangliu2501.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, CDU</rights>
+    <entry>
+        <title type="html"><![CDATA[Assements]]></title>
+        <id>https://hangliu2501.github.io/post/assements/</id>
+        <link href="https://hangliu2501.github.io/post/assements/">
+        </link>
+        <updated>2021-03-17T08:02:13.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grade]]></title>
         <id>https://hangliu2501.github.io/post/grade/</id>
