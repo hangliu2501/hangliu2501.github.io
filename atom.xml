@@ -2,13 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hangliu2501.github.io</id>
     <title>CDU</title>
-    <updated>2022-01-14T12:29:06.345Z</updated>
+    <updated>2022-01-14T12:30:44.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hangliu2501.github.io"/>
     <link rel="self" href="https://hangliu2501.github.io/atom.xml"/>
     <logo>https://hangliu2501.github.io/images/avatar.png</logo>
     <icon>https://hangliu2501.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, CDU</rights>
+    <entry>
+        <title type="html"><![CDATA[G R A D E]]></title>
+        <id>https://hangliu2501.github.io/post/g-r-a-d-e/</id>
+        <link href="https://hangliu2501.github.io/post/g-r-a-d-e/">
+        </link>
+        <updated>2022-01-14T12:30:19.000Z</updated>
+        <content type="html"><![CDATA[<p>S316297 Hang<br>
+<img src="https://hangliu2501.github.io/post-images/1642163437023.jpg" alt="" loading="lazy"></p>
+<p>Maintained by Student Administration | CRICOS Provider No. 00300K (NT/VIC) I 03286A (NSW) | RTO Provider No. 0373 | ABN 54 093 513 649 |  2021 Charles Darwin University</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ GRAD E]]></title>
         <id>https://hangliu2501.github.io/post/grad-e/</id>
